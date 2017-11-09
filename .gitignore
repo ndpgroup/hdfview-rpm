@@ -1,0 +1,7 @@
+*.rpm
+*.tar.gz
+BUILD
+BUILDROOT
+SOURCES
+SPEC
+rpmbuild
